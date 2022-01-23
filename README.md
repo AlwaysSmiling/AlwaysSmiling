@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in anything and everything.
 - 🌱 I’m currently learning Transformer/GPT Models.
-- 🥅 2021 Goals: Learn more of the daily driver technologies.
+- 🥅 2022 Goals: Learn more about how harware works.
 - ⚡ Fun fact: I love reading webnovels/webserials.
 
 ### Connect with me:
