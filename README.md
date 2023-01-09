@@ -1,8 +1,8 @@
 ### Hi there, I'm Pranjal 👋
 
 - 👀 I’m interested in anything and everything.
-- 🌱 I’m currently learning Transformer/GPT Models.
-- 🥅 2022 Goals: Learn more about how harware works.
+- 🌱 I’m currently learning Data Analysis Models.
+- 🥅 2023 Goals: Learn more about Data Patterns.
 - ⚡ Fun fact: I love reading webnovels/webserials.
 
 ### Connect with me:
